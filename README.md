@@ -44,7 +44,7 @@ Entusiasta aprendiz de desarrollo web, actualmente me encuentro aprendiendo desa
                                                                                                                                      
 **Mi primer proyecto fullstack**
                                                                                                                                      
-Aplicación Web de Chat en tiempo real con registro de usuarios mediante una api con conexion a base de datos sql y uso de servidor websocket 
+Aplicación Web de Chat con registro de usuarios mediante una api con conexion a base de datos sql y uso de servidor websocket para el funcionamiento del chat en tiempo real
                                                                                                                                      
 ![image](https://github.com/eliascando/eliascando/assets/75767835/0f3edb51-4ce6-46f2-b998-48b5bbfa163b)
 Página de Inicio
