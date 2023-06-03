@@ -6,10 +6,11 @@ Entusiasta aprendiz de desarrollo web, actualmente me encuentro aprendiendo desa
 <img src="https://github.com/eliascando/eliascando/assets/75767835/8fbcf7a6-1448-4eb3-a18c-7e8ef87d432f" alter="js" width="100px">
 <img src="https://github.com/eliascando/eliascando/assets/75767835/4258cd0c-7123-4c70-a056-bc04c2855a57" alter="html" width="100px">
 <img src="https://github.com/eliascando/eliascando/assets/75767835/20c4bccb-cce7-443c-8da1-d55fef3b7c48" alter="css" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/9757c7e0-0069-49c8-888a-e6efc2101261" alter="git" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/e1db3654-ee6a-48c3-9e58-d7eea5daf53c" alter="gh" width="80px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/2dea7b73-d136-4088-a988-bd89ad5697fc" alter="mssql" width="100px">
+<img src="https://github.com/eliascando/eliascando/assets/75767835/d1870462-a193-4383-a5c0-9a14efba8480" alter="git" width="90px">
+<img src="https://github.com/eliascando/eliascando/assets/75767835/d6aa27e8-a13f-430a-aabc-b976e2c9c41f" alter="gh" width="80px">
+<img src="https://github.com/eliascando/eliascando/assets/75767835/6b4153b4-33ba-41e0-a8ce-eee4e4907faa" alter="mssql" width="100px">
 <img src="https://github.com/eliascando/eliascando/assets/75767835/b01e99af-6b1e-4399-a412-5cdc9b19e050" alter="logo" width="100px">
+
 
 ---
 ### Aprendiendo🌱
