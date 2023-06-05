@@ -47,11 +47,11 @@ Entusiasta aprendiz de desarrollo web, actualmente me encuentro aprendiendo desa
                                                                                                                                      
 Aplicación Web de Chat con registro de usuarios mediante una api con conexion a base de datos sql y uso de servidor websocket para el funcionamiento del chat en tiempo real
                                                                                                                                      
-![image](https://github.com/eliascando/eliascando/assets/75767835/0f3edb51-4ce6-46f2-b998-48b5bbfa163b)
+![image](https://github.com/eliascando/eliascando/assets/75767835/f4aa7e42-4bae-47fa-ba09-647fb00c4eb6)
 Página de Inicio
 
-### Estadísticas
-![Elías's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliascando&count_private=true&show_icons=true&theme=dark)        
+<!--### Estadísticas
+![Elías's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliascando&count_private=true&show_icons=true&theme=dark)       --> 
 
 ---
 
