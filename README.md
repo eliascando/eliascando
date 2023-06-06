@@ -1,5 +1,9 @@
 # Hola Soy Elías 👋🙂
 Entusiasta aprendiz de desarrollo web, actualmente me encuentro aprendiendo desarrollo web full stack, con fuertes conocimientos de backend cada día descubriendo algo nuevo sobre este mundo increible que es la programación 
+
+
+![banner2](https://github.com/eliascando/eliascando/assets/75767835/efdff96c-7725-4d28-a5da-234f971830a2)
+
 ### Conocimientos⚡
 <img src="https://github.com/eliascando/eliascando/assets/75767835/f82bb3e1-315a-495e-9394-9dc9d1d59010" alter="c#" width="100px">
 <img src="https://github.com/eliascando/eliascando/assets/75767835/22b75463-f474-48a0-963e-8fd1eed57c07" alter="java" width="100px">
