@@ -54,8 +54,9 @@ Aplicación Web de Chat con registro de usuarios mediante una api con conexion a
 ![image](https://github.com/eliascando/eliascando/assets/75767835/f4aa7e42-4bae-47fa-ba09-647fb00c4eb6)
 Página de Inicio
 
-<!--### Estadísticas
-![Elías's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliascando&count_private=true&show_icons=true&theme=dark)       --> 
+## Estadísticas
+                                                                                                                                     
+![Elías's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliascando&count_private=true&show_icons=true&theme=dark)     
 
 ---
 
