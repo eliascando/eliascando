@@ -4,42 +4,45 @@ Entusiasta aprendiz de desarrollo web, actualmente me encuentro aprendiendo desa
 
 ![banner2](https://github.com/eliascando/eliascando/assets/75767835/efdff96c-7725-4d28-a5da-234f971830a2)
 
-### Conocimientos⚡
-<img src="https://github.com/eliascando/eliascando/assets/75767835/f82bb3e1-315a-495e-9394-9dc9d1d59010" alter="c#" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/22b75463-f474-48a0-963e-8fd1eed57c07" alter="java" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/8fbcf7a6-1448-4eb3-a18c-7e8ef87d432f" alter="js" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/4258cd0c-7123-4c70-a056-bc04c2855a57" alter="html" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/20c4bccb-cce7-443c-8da1-d55fef3b7c48" alter="css" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/d1870462-a193-4383-a5c0-9a14efba8480" alter="git" width="90px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/d6aa27e8-a13f-430a-aabc-b976e2c9c41f" alter="gh" width="80px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/6b4153b4-33ba-41e0-a8ce-eee4e4907faa" alter="mssql" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/b01e99af-6b1e-4399-a412-5cdc9b19e050" alter="logo" width="100px">
 
+<h3> 🛠 &nbsp;Stack Tecnológico </h3>
 
----
-### Aprendiendo🌱
-<img src="https://github.com/eliascando/eliascando/assets/75767835/e8ce0865-5064-42b0-b2ce-db8efe97a1b4" alter="ts" width="75px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/7d7766a2-3680-4dd8-a3df-9d6fb933a684" alter="react" width="75px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/d22a9204-4e7e-4bf8-81f3-e4d52c8e2e57" alter="nodejs" width="70px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/2467fbfa-b888-405e-bcac-1c2c461f029c" alter="express" width="70px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/b90d12a8-9490-4901-a22b-a5723b239606" alter="logo" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/cc4b42c6-64e9-49e0-91de-aa34dc0ab4a3" alter="logo" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/e4946c81-8b5b-4479-99ad-37f6f06b908d" alter="logo" width=100p">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/1d7e9502-dd2d-4e6b-b1c3-6603c3ad46aa" alter="logo" width="100px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/5e15550a-4cdd-4825-8f24-c38e207231ed" alter="logo" width="100px">
-                                                                                                                     
-                                                                                                                                   
----
-### Ides y Herramientas 🛠️
-                                                                                                                                   
+- 💻 &nbsp;
+  ![Csharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=563D7C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=MicrosoftSQLServer)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
+- 🚀 &nbsp;
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure&logoColor=0078D4)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=00000)
+  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render&logoColor=46E3B7)
+  ![Railway](https://img.shields.io/badge/-Railway-333333?style=flat&logo=railway&logoColor=0B0D0E)
 
-<img src="https://github.com/eliascando/eliascando/assets/75767835/2ad15263-1258-4809-ae5b-6d7ea9201cd2" alter="vscode" width="90px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/36adccd0-3f5c-4967-86e6-51b5a6fb407d" alter="vs" width="90px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/5a1c8281-b11c-4d66-bdcc-27b72eb8496c" alter="netbeans" width="75px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/ea6dc45c-92bf-4f5c-9bfe-754555904988" alter="postman" width="80px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/d71c5828-8b88-4785-bd0e-92f3db2a41c8" alter="illustrator" width="80px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/2ebd483b-6eae-46f4-967e-e69a46975040" alter="windows" width="70px">
-<img src="https://github.com/eliascando/eliascando/assets/75767835/c1634d4b-6c9e-4afd-8f0f-6f0e46a86f1c" alter="vercel" width="200px">
+- 🖥 &nbsp;
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows11&logoColor=0078D4)
+  ![Terminal](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=5391FE)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
 
 ---                                                                                                                                     
                                                                                                                                      
@@ -57,10 +60,11 @@ Página de Inicio
 ## Estadísticas
                                                                                                                                      
 ![Elías's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliascando&count_private=true&show_icons=true&theme=dark)     
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascando&theme=buefy&layout=compact"/>
 ---
 
 <!--
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 **eliascando/eliascando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
