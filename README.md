@@ -10,7 +10,7 @@ Entusiasta aprendiz de desarrollo web, curioso por naturaleza, actualmente me en
 - 💻 &nbsp;
   ![Csharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=563D7C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFFFFF)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
