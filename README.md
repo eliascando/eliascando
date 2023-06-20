@@ -41,6 +41,8 @@ Entusiasta aprendiz de desarrollo web, curioso por naturaleza, actualmente me en
 
 - 🖥 &nbsp;
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows11&logoColor=0078D4)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash&logoColor=4EAA25)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
