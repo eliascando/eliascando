@@ -22,6 +22,7 @@ Entusiasta aprendiz de desarrollo web, curioso por naturaleza, actualmente me en
 - 🛢 &nbsp;
   ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=MicrosoftSQLServer)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)  
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
