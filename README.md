@@ -46,18 +46,6 @@ Entusiasta aprendiz de desarrollo web, curioso por naturaleza, actualmente me en
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-                                                                                                                              
-##  Proyecto Destacado 🏆
-                                                                                                                                     
-### [ChatExpress](https://github.com/eliascando/ChatExpress)
-                                                                                                                                     
-**Mi primer proyecto fullstack**
-                                                                                                                                     
-Aplicación Web de Chat con registro de usuarios mediante una api con conexion a base de datos sql y uso de servidor websocket para el funcionamiento del chat en tiempo real
-                                                                                                                                     
-![image](https://github.com/eliascando/eliascando/assets/75767835/f4aa7e42-4bae-47fa-ba09-647fb00c4eb6)
-Página de Inicio
-
 ## Estadísticas
                                                                                                                                      
 ![Elías's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliascando&count_private=true&show_icons=true&theme=dark)
