@@ -46,7 +46,7 @@ Entusiasta aprendiz de desarrollo web, curioso por naturaleza, actualmente me en
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-## Estadísticas
+## Estadísticas 📈
                                                                                                                                      
 ![Elías's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliascando&count_private=true&show_icons=true&theme=dark)
 ![Elías's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliascando&theme=buefy&layout=compact)
