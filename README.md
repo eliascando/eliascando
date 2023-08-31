@@ -1,5 +1,5 @@
 # Hola Soy Elías 🧑‍💻
-Desarrollador web Full Stack, curioso por naturaleza, cada día aprendiendo algo nuevo para desarrollar ✨
+Desarrollador Web Full Stack, curioso por naturaleza, cada día aprendiendo algo nuevo para desarrollar ✨
 
 
 ![banner2](https://github.com/eliascando/eliascando/assets/75767835/efdff96c-7725-4d28-a5da-234f971830a2)
